@@ -16,9 +16,7 @@ python3 Run.py
   <summary><strong>📸 Screenshot</strong></summary>
  
 - success
-![Image](https://github.com/user-attachments/assets/25b8defa-7bde-4aa7-be12-acbd82d62863)
-- result
-![Image](https://github.com/user-attachments/assets/17cd7ca3-e388-4b66-82d5-c1034a42eece)
+![Image](https://github.com/user-attachments/assets/35614e0d-893b-4a77-a2a0-0bcde9759c07)
 
 </details>
 
