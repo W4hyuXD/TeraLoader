@@ -1,4 +1,4 @@
-# 🌐 InstaLoader
+# 🌐 TeraaLoader
 Free Tools Downloader File Terabox Via Url File
 
 # Instalasi 
