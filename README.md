@@ -20,6 +20,10 @@ python3 Run.py
 
 </details>
 
+## ☕ Orang baik
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wahyuww567)
+
 ```python
 print("Happy Surfing")
 ```
