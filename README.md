@@ -1,6 +1,10 @@
 # 🌐 TeraaLoader
 Free Tools Downloader File Terabox Via Url File
 
+## ☕ Orang baik
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wahyuww567)
+
 # Instalasi 
 ```bash
 pkg upadte -y && pkg upgrade -y
@@ -19,10 +23,6 @@ python3 Run.py
 ![Image](https://github.com/user-attachments/assets/35614e0d-893b-4a77-a2a0-0bcde9759c07)
 
 </details>
-
-## ☕ Orang baik
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wahyuww567)
 
 ```python
 print("Happy Surfing")
