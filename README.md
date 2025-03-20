@@ -1,5 +1,5 @@
-# 🌐 TeraaLoader
-Free Tools Downloader File Terabox Via Url File
+![Image](https://github.com/user-attachments/assets/07e26024-7bfd-4ff5-95b1-0fc1c91d4f9e)
+<p align="center">Free Tools Downloader File Terabox Via Url File</p>
 
 ## ☕ Orang baik
 
